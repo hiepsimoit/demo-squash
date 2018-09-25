@@ -1,1 +1,2 @@
 squats 1
+squats 2
