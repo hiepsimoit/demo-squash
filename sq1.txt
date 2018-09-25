@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 squats 1
 squats 2
 squats 3
-=======
-squats 1
->>>>>>> parent of fc74604... sq2
+
+squats 3
