@@ -4,3 +4,4 @@ squats 2
 squats 3
 
 squats 3
+squats 4
